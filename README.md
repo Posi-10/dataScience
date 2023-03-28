@@ -15,7 +15,7 @@
 
 ## Introduccíon
 
-[ ] pendiente
+[] pendiente
 
 ## Instalación
 
@@ -39,12 +39,12 @@ Que se pueden visualizar en la carpeta [capitulo 1](./capitulo_1/)
 
 ## Capítulo 2 
 
-[ ] pendiente
+[] pendiente
 
 ## Capítulo 3
 
-[ ] pendiente
+[] pendiente
 
 ## Capítulo 4
 
-[ ] pendiente
+[] pendiente
