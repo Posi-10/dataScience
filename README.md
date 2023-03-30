@@ -12,7 +12,7 @@
     - [Seaborn](#seaborn)
   - [Capítulo 1 - Tu primer con python y pandas](#capítulo-1---tu-primer-con-python-y-pandas)
   - [Capítulo 2 - Tratamiento de datos y primeros Gráficos](#capítulo-2---tratamiento-de-datos-y-primeros-gráficos)
-  - [Capítulo 3](#capítulo-3)
+  - [Capítulo 3 - Pfofundizando el análisis exploratorio e insights](#capítulo-3---pfofundizando-el-análisis-exploratorio-e-insights)
   - [Capítulo 4](#capítulo-4)
 
 ## Introduccíon
@@ -53,9 +53,14 @@ En este capitulo se muesta la forma de transmitri los datos y cambiar el tipo de
 
 Que se puede visualizar en la carpeta [capitulo 2](./capitulo_2/)
 
-## Capítulo 3
+## Capítulo 3 - Pfofundizando el análisis exploratorio e insights
 
-[] pendiente
+Es este capitulo se presenta el mejor manejo en los datos y la forma de visualizarlo en las grafica exactamente las tipo boxplot
+
+para la base de datos visite esta [pagina](https://microdatos.dane.gov.co/index.php/catalog/743/get-microdata)
+
+Que se puede visualizar en la carpeta [capitulo 3](./capitulo_3/)
+
 
 ## Capítulo 4
 
