@@ -4,20 +4,17 @@
 
 - [Ciencia de datos](#ciencia-de-datos)
   - [Índice](#índice)
-  - [Introduccíon](#introduccíon)
   - [Instalación](#instalación)
     - [Python](#python)
     - [Pandas](#pandas)
     - [Matplotlib](#matplotlib)
     - [Seaborn](#seaborn)
+    - [Scikit](#scikit)
   - [Capítulo 1 - Tu primer con python y pandas](#capítulo-1---tu-primer-con-python-y-pandas)
   - [Capítulo 2 - Tratamiento de datos y primeros Gráficos](#capítulo-2---tratamiento-de-datos-y-primeros-gráficos)
   - [Capítulo 3 - Pfofundizando el análisis exploratorio e insights](#capítulo-3---pfofundizando-el-análisis-exploratorio-e-insights)
   - [Capítulo 4](#capítulo-4)
 
-## Introduccíon
-
-[] pendiente
 
 ## Instalación
 
@@ -40,6 +37,10 @@ Para la instalación de matplotlib hay que seguri la [documentacion oficial](htt
 ### Seaborn
 
 Para la instalación de matplotlib hay que seguri la [documentacion oficial](https://seaborn.pydata.org/installing.html)
+
+### Scikit
+
+Para la instalación de matplotlib hay que seguri la [documentacion oficial](https://scikit-learn.org/stable/install.html)
 
 ## Capítulo 1 - Tu primer con python y pandas
 
@@ -64,4 +65,6 @@ Que se puede visualizar en la carpeta [capitulo 3](./capitulo_3/)
 
 ## Capítulo 4
 
-[] pendiente
+En este capitulo se repentento el manejo de la imformacion con la funcion de predecir la información en pocas palabra es el machine learning.
+
+Que se puede visualizar en la carpeta [capitulo 4](./capitulo_4/)
